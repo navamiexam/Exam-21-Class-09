@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="08038250-C8E9-4430-8B0A-E08BC4B9FA1F" version="0">
+	<info>
+		<title>EXAM-21_Class-09</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="2238068">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-1326a120b0e1a28c9865eb52fddc610050642d93.png</file>
+		<file id="id10">data/images/img-5e4c0c1a6f419488d7dace1459bc75955349a772.png</file>
+		<file id="id11">data/images/img-67050452f8b13071a388da2f6404a60a662fd6fc.jpg</file>
+		<file id="id12">data/images/img-6eec2161061dcc572c33a38b8243b6b86f204950.jpg</file>
+		<file id="id13">data/images/img-8f81ef098fcede5ada87cb74839805e6f09415d3.png</file>
+		<file id="id14">data/images/img-a421c162fd6538a2a7ddb521d48ec2030a712f6b.png</file>
+		<file id="id15">data/images/img-c9f23e34fd15192015d5c6641612832b998288c8.jpg</file>
+		<file id="id16">data/images/img-ded9ab141186c70ceb84024a2c2b12ab857897c8.jpg</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
